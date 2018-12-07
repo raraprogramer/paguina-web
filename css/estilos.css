@@ -1,0 +1,197 @@
+﻿body {
+	padding-left: 2em;
+	padding-right: 2em;
+	background-image: url("../img/fondo.png");
+
+  }
+
+td, th {
+	padding: 5px 10px;
+	}
+	
+#supizq,#izquierda {
+	float:left;
+	}
+
+#supdcha,#derecha {
+	float:right;
+	}
+div#textizq {
+	float:left;
+	width:55%;
+}
+#publi {
+	padding-right:100px;
+}
+
+#supcentrado {
+	font-family:Impact;
+	font-size:50px;
+	color:red;
+	padding-right;200px;
+	
+	}
+	
+#cabecera, #texto,#texto2 {
+	
+	overflow:hidden;
+	}
+ 
+#comentario {
+	font-size:14px;
+	color:blue;
+	vertical-align:top;
+	font-family:verdana;
+	}
+	
+#menu {
+	font-size:15px;
+	font-family:arial;
+	font-weight: bold;
+	text-decoration:none;
+	}
+	
+#logo1 {
+	width:35%;
+	text-align:left;
+	}
+	
+#pie {
+	overflow:hidden;
+	}
+	
+#formulario {
+	padding: 5px 1px;
+	}
+	
+#venta {
+	padding:20px;
+	margin-left:auto;
+	margin-right:auto;
+	}
+
+#texto {
+	padding-left:100px;
+}
+	
+#venta table {
+	border:1px groove;
+}
+
+table.precio {
+	border:0px;
+}
+
+#venta td {
+	border:4px inset;
+	background-color:#fcb1a1;
+}
+
+#venta th {
+	border:4px inset;	
+}
+
+img.foto {
+  width: 300px; height: 200px;
+}
+
+img.fotosportada {
+  width: 560px; height: 315px;
+}
+
+img.fotosportada1 {
+  width: 560px; height: 315px;
+}
+img.icono{
+  width: 14px; height: 14px;
+}
+
+th.precio{
+	font-size:16px;
+	font-family:Comic Sans MS;
+	font-weight: bolder;
+	text-align;center;
+	width:15%;
+	}
+	
+th.tipos{
+	font-size:16px;
+	font-family:Heroes Legend;
+	text-align;center;
+	}
+	
+#venta th.tipos{
+	font-size:18px;
+	font-weight: bolder;
+	text-align;center;
+	}
+	
+ul.tipo1 {
+	type:none;
+	font-size:20px;
+	font-family:arial;
+}
+
+ul.tipo2 {
+	type:none;
+	font-size:16px;
+	font-family:verdana;
+	}	
+	
+img.small {
+	 width: 18px; height: 18px;
+	 margin:auto;
+}
+
+#pie {
+	background-color:#fcb1a1;	
+	}
+
+#aviso, #politica,#formulario,#texto {
+	padding: 3em  1em;
+	line-height: 1.2;
+}
+
+a:link {
+text-decoration:none;
+} 
+
+header {
+	padding:20px;
+}
+
+.boton_1 {
+	text-decoration: none;
+	padding: 3px;
+	padding-left:10px;
+	padding-right:10px;
+	background-color:white;
+	border-radius:15px;
+	border: 3px double #fcb1a1;
+	}
+
+.boton_1:hover{
+	opacity:0.6;
+	text-decoration:none;
+	}
+
+hr {
+	color:red; 
+	size:3;
+}
+
+p.texto {
+	font-family:verdana;
+	text-align:justify;
+	
+}
+
+h1 {
+	color:blue;
+	size:18px:
+}
+
+ #quien {
+	 text-align:justify;
+	 padding: 1em 5em;
+ }
